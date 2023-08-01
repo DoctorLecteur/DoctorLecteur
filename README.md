@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 My name is Dmitry Dolbin.🙋
-5 years of experience in the field of information technologies. My dream is to work in Data Science
+
+5 years of experience in the field of information technologies. My dream is to work in Data Science.
