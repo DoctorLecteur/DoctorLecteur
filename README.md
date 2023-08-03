@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 My name is Dmitry Dolbin.🙋
 
 5 years of experience in the field of information technologies. My dream is to work in Data Science.
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DoctorLecteur)](https://github.com/DoctorLecteur/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoctorLecteur&layout=compact)](https://github.com/DoctorLecteur/github-readme-stats)
