@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 My name is Dmitry Dolbin.🙋
 
-5 years of experience in the field of information technologies. My dream is to work in Data Science.
+5 years of experience in the field of information technologies.
 
 ## Languages and Tools:
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
